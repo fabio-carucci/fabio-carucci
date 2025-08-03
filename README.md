@@ -24,11 +24,3 @@
 - 📱 **Proto React Native**: proof of concepts, demo e app che sto testando  
 
 Se ti incuriosisce qualcosa: **apri il codice, gioca con i componenti, fai fork, sbircia i commit**. Se ti piace qualcosa, **metti una ⭐** — è come un “ti seguo” silenzioso.
-
----
-
-## 💡 Perché dovresti guardare dentro
-
-- Il codice non è solo funzionante, è pensato per essere **riusabile**, **animato**, **responsive** e con una **personalità** che si sente.  
-- Uso le animazioni per raccontare storie, non solo per fare “bella grafica”.  
-- Ho una mentalità da startup: iterazione veloce, test, feedback, e sempre un occhio alla scalabilità.
