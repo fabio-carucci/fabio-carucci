@@ -1,16 +1,34 @@
-## Hi there 👋
+# 👋 Ciao, sono Fabio
 
-<!--
-**fabio-carucci/fabio-carucci** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> Full-stack MERN dev con la testa tra il codice e le onde.  
+> Specializzato in **Next.js** e **GSAP**, sto esplorando il mondo di **React Native** e costruendo siti (PWA-friendly) da freelance.  
+> Pronto a far decollare una startup... prima o poi. 🚀🌊
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Tech Stack & Superpoteri
+
+- **Frontend:** Next.js, React, GSAP
+- **Backend:** Node.js, Express, MongoDB (MERN all the way)  
+- **Mobile:** React Native (in fase di esplorazione / prototipazione)  
+- **Progressive Web App:** architetture moderne per esperienze web che si comportano quasi come app native  
+- **Tooling:** Vercel, Tailwind (custom), Git, REST / GraphQL mindset  
+- **Altri:** gestione stato, ottimizzazione performance, animazioni sincronizzate con lo scroll, storytelling video-driven
+
+---
+
+## 🚀 Cosa trovi qui
+
+- 📁 **Progetti reali**: dai siti web che ho messo in piedi da freelance a esperimenti interattivi con GSAP e Next.js  
+- 🎥 **Scroll-driven video & UX**: dove l’utente guida la narrazione col movimento, non con noiose slide  
+- 📱 **Proto React Native**: proof of concepts, demo e app che sto testando  
+
+Se ti incuriosisce qualcosa: **apri il codice, gioca con i componenti, fai fork, sbircia i commit**. Se ti piace qualcosa, **metti una ⭐** — è come un “ti seguo” silenzioso.
+
+---
+
+## 💡 Perché dovresti guardare dentro
+
+- Il codice non è solo funzionante, è pensato per essere **riusabile**, **animato**, **responsive** e con una **personalità** che si sente.  
+- Uso le animazioni per raccontare storie, non solo per fare “bella grafica”.  
+- Ho una mentalità da startup: iterazione veloce, test, feedback, e sempre un occhio alla scalabilità.
