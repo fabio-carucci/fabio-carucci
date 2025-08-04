@@ -1,26 +1,44 @@
-# 👋 Ciao, sono Fabio
+# 👋 Hey, I’m Fabio
 
-> Full-stack MERN dev con la testa tra il codice e le onde.  
-> Specializzato in **Next.js** e **GSAP**, sto esplorando il mondo di **React Native** e costruendo siti (PWA-friendly) da freelance.  
-> Pronto a far decollare una startup... prima o poi. 🚀🌊
-
----
-
-## 🔧 Tech Stack & Superpoteri
-
-- **Frontend:** Next.js, React, GSAP
-- **Backend:** Node.js, Express, MongoDB (MERN all the way)  
-- **Mobile:** React Native (in fase di esplorazione / prototipazione)  
-- **Progressive Web App:** architetture moderne per esperienze web che si comportano quasi come app native  
-- **Tooling:** Vercel, Tailwind (custom), Git, REST / GraphQL mindset  
-- **Altri:** gestione stato, ottimizzazione performance, animazioni sincronizzate con lo scroll, storytelling video-driven
+Full-stack MERN dev with a surfboard in the brain and startup ideas in the pipeline.  
+Focused on **Next.js** + **GSAP**, learning **React Native**, and shipping freelance web experiences (PWA-ready).  
+Always chasing waves, good eats, and momentum. 🚀🌊
 
 ---
 
-## 🚀 Cosa trovi qui
+## ⚡ What’s in this repo
 
-- 📁 **Progetti reali**: dai siti web che ho messo in piedi da freelance a esperimenti interattivi con GSAP e Next.js  
-- 🎥 **Scroll-driven video & UX**: dove l’utente guida la narrazione col movimento, non con noiose slide  
-- 📱 **Proto React Native**: proof of concepts, demo e app che sto testando  
+- Real, hands-on projects: private freelance work (where allowed), public experimental builds, and exercises from courses I’m taking or have taken.  
+- Scroll-driven storytelling with video/motion, interactive experiments, and early React Native proofs-of-concept.  
 
-Se ti incuriosisce qualcosa: **apri il codice, gioca con i componenti, fai fork, sbircia i commit**. Se ti piace qualcosa, **metti una ⭐** — è come un “ti seguo” silenzioso.
+If something catches your eye: **open the code, fork it, poke around the commits**.  
+Drop a ⭐ if you vibe with it. No pressure, just respect.
+
+---
+
+## 🛠️ Superpowers
+
+- Next.js / React  
+- GSAP for smooth, scroll-linked motion  
+- Node.js + MongoDB (MERN backbone)  
+- Exploring mobile with React Native  
+- Modern web UX (PWA mindset, performance-aware)
+
+---
+
+## 🌍 Outside the terminal
+
+- Big into the **ocean**—trying to become a surfer (debugging is warm-up).  
+- Food explorer.  
+- Snowboard when there’s snow.  
+- Traveler when inspiration calls.  
+- Startup energy: one idea away from “launch” (for real… maybe).
+
+---
+
+## 👀 TL;DR
+
+> Code with personality. Real projects (not templates).
+> Star if you like it. Reach out if you’ve got ideas.
+> Surf, ship, repeat.
+---
