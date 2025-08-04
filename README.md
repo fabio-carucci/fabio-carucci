@@ -41,4 +41,3 @@ Drop a ⭐ if you vibe with it. No pressure, just respect.
 > Code with personality. Real projects (not templates).
 > Star if you like it. Reach out if you’ve got ideas.
 > Surf, ship, repeat.
----
