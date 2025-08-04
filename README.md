@@ -20,11 +20,21 @@ Drop a ⭐ if you vibe with it. No pressure, just respect.
 
 ### Frontend & UX
 <div align="center">
-  [![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)]()  
-  [![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=000)]()  
-  [![GSAP](https://img.shields.io/badge/GSAP-8E44AD?style=flat&logo=greensock&logoColor=white)]()  
-  [![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)]()  
-  [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)]()
+  <a href="https://nextjs.org">
+    <img alt="Next.js" src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white" />
+  </a>
+  <a href="https://react.dev">
+    <img alt="React" src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=000" />
+  </a>
+  <a href="https://greensock.com/gsap">
+    <img alt="GSAP" src="https://img.shields.io/badge/GSAP-8E44AD?style=flat&logo=greensock&logoColor=white" />
+  </a>
+  <a href="https://tailwindcss.com">
+    <img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white" />
+  </a>
+  <a href="https://www.typescriptlang.org">
+    <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" />
+  </a>
 </div>
 MDX-powered content & editor-driven experiences.
 
@@ -35,8 +45,12 @@ MDX-powered content & editor-driven experiences.
 
 ### Backend / Platform & Auth
 <div align="center">
-  [![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)]()  
-  [![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)]()  
+  <a href="https://nodejs.org" target="_blank" rel="noopener">
+    <img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white" />
+  </a>
+  <a href="https://www.mongodb.com" target="_blank" rel="noopener">
+    <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" />
+  </a>
 </div>
 Exploring mobile with **React Native**.  
 Backend-as-a-service / edge platforms: **Appwrite**, **Firebase** (auth, realtime, functions).
