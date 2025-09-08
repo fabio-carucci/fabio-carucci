@@ -22,8 +22,8 @@ Drop a ⭐ if you vibe with it. No pressure, just respect.
 **Backend:** Node.js + MongoDB (MERN)  
 **Mobile/Extras:** React Native, PWA mindset  
 **State & API:** Zustand / URL state, REST APIs, external (Mapbox, OpenAI)  
-**CMS:** Sanity, Strapi  
-**Platform & Auth:** Firebase, Appwrite  
+**CMS:** Sanity, Strapi, Payload CMS 
+**Platform & Auth:** Firebase, Appwrite, Clerk, Supabase
 **Tooling & Observability:** Sentry, Postman
 
 ## 🌍 Outside the terminal
