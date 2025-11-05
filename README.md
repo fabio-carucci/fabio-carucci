@@ -1,7 +1,7 @@
 # 👋 Hey, I’m Fabio
 
 Full-stack MERN dev with a surfboard in the brain and startup ideas in the pipeline.  
-Focused on **Next.js** + **GSAP**, learning **React Native**, and shipping freelance web experiences (PWA-ready).  
+Focused on **Next.js** + **GSAP**, learning **React Native**, and shipping freelance web experiences.  
 Always chasing waves, good eats, and momentum. 🚀🌊
 
 ---
